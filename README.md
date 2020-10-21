@@ -6,4 +6,4 @@ Port the [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp82
 
 * Added necessary Arduino and 3rd party libraries through PlatformIO IDE, simply open the project, build and upload.
 
-* Tested with NodeMCU devkit v1.0 (ESP-12F/80MHz/4MB Flash/40KB RAM).
+* Tested with NodeMCU devkit v1.0 (ESP-12F/80MHz/4MB Flash/~40KB usable RAM).
